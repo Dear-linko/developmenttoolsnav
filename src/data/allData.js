@@ -166,7 +166,7 @@ export const allData = [{
         title: "Tailbits",
         desc: "Tailbits is a library of UI components that are made with Tailwind CSS. We have created Tailwind components for every type of project and currated them in one place so you can easily find what you need for your design project. From buttons to dashboards, we've got it all right here!",
         url: "https://www.tailbits.com/",
-        imageUrl: "/UI/Tailbits.ico"
+        imageUrl: "/ui/tailbits.ico"
     }, {
         title: "Tailwind Toolbox",
         desc: "Free open source Tailwind CSS starter templates and components to get you started quickly to creating websites in Tailwind CSS!",
