@@ -116,7 +116,7 @@ export const allData = [{
         title: "shadcnUI",
         desc: "Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.",
         url: "https://ui.shadcn.com/",
-        imageUrl: "/ui/shadcnui.ico"
+        imageUrl: "/ui/shadcnUI.ico"
     }, {
         title: "daisyUI",
         desc: "Best Tailwind Components Library - Free UI components for Tailwind CSS",
